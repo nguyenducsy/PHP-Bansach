@@ -1,0 +1,410 @@
+body {
+    margin: 0px;
+}
+
+.boxcenter {
+    width: 100%;
+    background-color: #ebe7e7;
+    font-family: 'Roboto';
+}
+
+.boxletf {
+    width: 60%;
+    float: left;
+    margin-left: 70px;
+}
+
+.box1 {
+    float: left;
+    width: calc(100% - 5px);
+    min-height: 40px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.box1 input {
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin: 8px 8px;
+    border: 1px rgb(255, 255, 255) solid;
+    border-radius: 2px;
+}
+
+.box1 a {
+    float: left;
+    margin: 10px 5px;
+    text-decoration: none;
+    font-size: 10pt;
+    color: gray;
+}
+
+.box1 h3 {
+    float: right;
+    font-size: 10pt;
+    margin-right: 10px;
+    color: gray;
+}
+
+.box2 {
+    float: left;
+    width: calc(100% - 5px);
+    min-height: 200px;
+    background-color: rgb(255, 255, 255);
+    margin: 5px 5px;
+}
+
+.box2 input {
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin: 8px 8px;
+    border: 1px rgb(255, 255, 255) solid;
+    border-radius: 2px;
+}
+
+.box2 .boximg {
+    float: left;
+    width: 15%;
+    margin-top: 10px;
+    min-height: 80px;
+    margin-right: 5px;
+    left: 20px;
+    bottom: 10px;
+}
+
+.box2 .boximg img {
+    width: 100%;
+}
+
+.box2 p input {
+    float: left;
+    width: 20px;
+    height: 20px;
+    border: 1px rgb(255, 255, 255) solid;
+    border-radius: 2px;
+}
+
+.box2 .cameraa a {
+    font-size: 13pt;
+}
+
+h5 {
+    margin: 10px 5px;
+    color: gray;
+}
+
+.box2 .cameraa {
+    width: 40%;
+    float: left;
+    min-height: 100px;
+}
+
+.box2 a {
+    float: left;
+    margin: 10px 5px;
+    text-decoration: none;
+    font-size: 12pt;
+    color: black;
+}
+
+.box2 .bin a {
+    margin: 0px;
+    ;
+}
+
+.gia span {
+    float: right;
+    text-decoration: underline;
+}
+
+.gia {
+    float: left;
+    color: orange;
+    min-height: 10px;
+    width: 15%;
+    margin-left: 0px;
+}
+
+.gia .phantram {
+    margin-top: 35px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    color: rgb(46, 46, 46);
+}
+
+.gia p {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 20pt;
+}
+
+.gia .tim {
+    float: left;
+    width: 30%;
+    margin-top: 10px;
+    color: gray;
+}
+
+.gia .bin {
+    float: left;
+    width: 30%;
+    margin-top: 10px;
+    color: gray;
+}
+
+.soluong .giam {
+    width: 35px;
+    min-height: 35px;
+    float: left;
+    background-color: #f7f5f5;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20pt;
+    color: #a5a4a4;
+}
+
+.soluong .tang {
+    width: 35%;
+    min-height: 35px;
+    float: right;
+    background-color: #ebebeb;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20pt;
+    color: #a5a4a4;
+}
+
+.soluong .so {
+    float: left;
+    font-size: 15pt;
+    margin: 5px 12px;
+    text-align: center;
+}
+
+.soluong {
+    width: 12%;
+    float: left;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+hr {
+    width: 100%;
+    border: 0.2px rgb(235, 235, 235) solid;
+    float: left;
+    margin-bottom: 10px;
+    clear: both;
+}
+
+.box3 {
+    float: left;
+    width: calc(100% - 5px);
+    min-height: 100px;
+    background-color: white;
+    margin: 5px 5px;
+}
+
+.boxright {
+    width: calc(30% - 20px);
+    float: left;
+    background-color: #ffffff;
+    min-height: 425px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.boxright .nd {
+    margin-left: 10px;
+    float: left;
+}
+
+.boxright .nd i {
+    margin-right: 10px;
+    float: left;
+}
+
+.nd h6 {
+    margin-top: 5px;
+    font-size: 10pt;
+    font-family: 'Roboto', ;
+    color: rgb(75, 75, 75);
+    float: left;
+    margin-bottom: 15px;
+}
+
+.nd p {
+    font-size: 15pt;
+    color: rgb(168, 168, 168);
+}
+
+.nd {
+    width: calc(100% - 10px);
+}
+
+.boxright .saup4 {
+    width: 100%;
+    min-height: 1px;
+    clear: both;
+    border: 0.2px rgb(235, 235, 235) solid;
+    margin-bottom: 15px;
+}
+
+.boxright .tt {
+    width: 100%;
+    font-size: 15pt;
+    color: rgb(59, 59, 59);
+    font-family: 'Roboto';
+}
+
+.boxright .tamtinh {
+    float: left;
+    width: 96%;
+    margin-top: 20px;
+    color: gray;
+}
+
+.boxright .tamtinh span {
+    color: rgb(34, 34, 34);
+    float: right;
+    font-size: 15pt;
+}
+
+.boxright .tamtinh strong {
+    margin-left: 5px;
+    text-decoration: underline;
+}
+
+.boxright .phi {
+    float: left;
+    width: 96%;
+    margin-top: 15px;
+    color: gray;
+    margin-bottom: 15px;
+}
+
+.boxright .phi span {
+    float: right;
+    font-size: 15pt;
+    color: rgb(41, 41, 41);
+}
+
+.boxright .phi strong {
+    margin-left: 5px;
+    text-decoration: underline;
+}
+
+.boxright .nhapmgg input {
+    width: 58%;
+    float: left;
+    min-height: 35px;
+    font-size: 12pt;
+}
+
+.boxright .apdung input {
+    width: 35%;
+    float: right;
+    min-height: 35px;
+    margin-right: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    background-color: #21b7d1;
+}
+
+.boxright .tongcong {
+    clear: both;
+    width: 96%;
+    float: left;
+    margin-top: 15px;
+}
+
+.boxright .tongcong span {
+    float: right;
+    font-size: 15pt;
+    color: rgb(41, 41, 41);
+}
+
+.boxright .dabaogom {
+    float: right;
+    margin: 10px 15px;
+    font-size: 10pt;
+    color: rgb(85, 85, 85);
+}
+
+.boxright .xacnhan input {
+    float: left;
+    clear: both;
+    width: 97%;
+    min-height: 50px;
+    text-align: center;
+    border: none;
+    font-size: 13pt;
+    margin-top: 5px;
+    background-color: #f07326;
+}
+
+input[type=submit] {
+    color: white;
+}
+
+input::placeholder {
+    color: white;
+}
+
+.buttons_added {
+    opacity: 1;
+    display: inline-block;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    white-space: nowrap;
+    vertical-align: top;
+}
+
+.is-form {
+    overflow: hidden;
+    position: relative;
+    background-color: #f9f9f9;
+    height: 2.2rem;
+    width: 1.9rem;
+    padding: 0;
+    text-shadow: 1px 1px 1px #fff;
+    border: 1px solid #ddd;
+}
+
+.is-form:focus,
+.input-text:focus {
+    outline: none;
+}
+
+.is-form.minus {
+    border-radius: 4px 0 0 4px;
+}
+
+.is-form.plus {
+    border-radius: 0 4px 4px 0;
+}
+
+.input-qty {
+    background-color: #fff;
+    height: 2.2rem;
+    text-align: center;
+    font-size: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-left: 0;
+    border-right: 0;
+    padding: 0;
+}
+
+.input-qty::-webkit-outer-spin-button,
+.input-qty::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

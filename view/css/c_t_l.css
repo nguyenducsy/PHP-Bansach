@@ -1,0 +1,11 @@
+.table thead th {
+    background-color: #24a282;
+}
+
+td .btn-info {
+    background-color: #46a5a5;
+}
+
+.card-footer .btn-info {
+    background-color: #24a282;
+}

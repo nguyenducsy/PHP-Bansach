@@ -1,0 +1,169 @@
+.boxright {
+    float: right;
+    width: 80%;
+    min-height: 500px;
+}
+
+.boxright h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.boxright .chekc input {
+    border-radius: 5px;
+    border-radius: 5px;
+    color: #3a3a3a;
+    width: 30px;
+    float: left;
+    min-height: 20px;
+}
+
+.boxright .chekc span {
+    margin-top: 3px;
+    color: #3a3a3a;
+    float: left;
+}
+
+.boxright .tenn {
+    float: left;
+    margin-left: 200px;
+    width: 200px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #835799, #23c47e);
+}
+
+.boxright .sot {
+    float: left;
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 5px;
+    margin-right: 50px;
+    background-image: linear-gradient(to right, #835799, #23c47e);
+}
+
+.boxright .subm input {
+    float: left;
+    margin-top: 30px;
+    width: 120px;
+    min-height: 30px;
+    border-radius: 20px;
+    clear: both;
+    background-image: linear-gradient(to right, #11a666, #23c47e);
+    margin-left: 550px;
+}
+
+.boxright .subm input:hover {
+    background-image: linear-gradient(to right, #11a666, #23c47e);
+    opacity: 0.9;
+}
+
+.boxright .rr {
+    width: 400px;
+    float: left;
+    min-height: 200px;
+    background-color: #3a3a3a;
+}
+
+input {
+    border: none;
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 5px;
+    color: #3a3a3a;
+    min-height: 20px;
+}
+
+.bang {
+    width: 70%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 50px;
+    min-height: 500px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    float: left;
+    color: white;
+    min-height: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #3a3a3a;
+}
+
+table th {
+    margin-top: 10px;
+    font-size: 13pt;
+}
+
+table .id {
+    float: left;
+    width: 120px;
+}
+
+table .ten {
+    float: left;
+    text-align: left;
+    width: 230px;
+}
+
+table .sort {
+    float: left;
+    width: 120px;
+}
+
+table .hot {
+    float: left;
+    width: 120px;
+}
+
+table .edit {
+    color: yellow;
+    float: left;
+    width: 120px;
+}
+
+table .xoa {
+    float: left;
+    width: 120px;
+    color: red;
+}
+
+.show .idd {
+    float: left;
+    width: 120px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.show .namee {
+    float: left;
+    text-align: left;
+    width: 230px;
+    margin-top: 10px;
+}
+
+.show .sortt {
+    float: left;
+    text-align: center;
+    width: 120px;
+    margin-top: 10px;
+}
+
+.show .hott {
+    text-align: center;
+    float: left;
+    width: 105px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.show span {
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+    text-align: center;
+    width: 115px;
+}
